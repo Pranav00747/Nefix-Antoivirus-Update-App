@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netfixupd", "netfixupd\netfixupd.csproj", "{BE040B7F-9E52-4171-BE75-FC16D23FB8CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE040B7F-9E52-4171-BE75-FC16D23FB8CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE040B7F-9E52-4171-BE75-FC16D23FB8CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE040B7F-9E52-4171-BE75-FC16D23FB8CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE040B7F-9E52-4171-BE75-FC16D23FB8CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
